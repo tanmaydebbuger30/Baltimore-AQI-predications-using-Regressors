@@ -51,17 +51,7 @@ This repository presents our final project for DATA 602 (Data Mining & Machine L
 | XGBoost + EVT      | 11.0      | 0.82     |
 | RF + EVT           | 10.5      | 0.83     |
 
-## 📁 Files
-
-- `DATA 602 Group3 Final Project Notebook.ipynb`: Full code and model evaluations
-- `DATA 602 FINAL.pptx`: Presentation deck summarizing findings and methodology
-
-## 👥 Team Members
-
-- Daniel McKirgan  
-- Naga Sai Kartikeya Vemula  
-- Amisha Ganvir  
-- Tanmay Pendharkar  
+  
 
 ## 🔮 Future Work
 
